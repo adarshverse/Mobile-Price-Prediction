@@ -157,3 +157,5 @@ elif page == "📱 Phone Recommendation":
                 ]
             ].head(10)
         )
+        
+        #streamlit run app.py
